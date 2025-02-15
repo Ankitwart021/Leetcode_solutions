@@ -31,14 +31,16 @@ class Solution {
     }
     public String multiply(String num1, String num2) {
         String res = "0";
+        int count = 0;
         for(int idx = num2.length() - 1; idx >= 0; idx--){
             int d2 = num2.charAt(idx) - '0';
             String s2 = multiply2(num1, d2);
             
-            for (int i = 0; i < num2.length() - 1 - idx; i++) {
+            for (int c = 0; c < count; c++) {
                 s2+='0';
             }
             res = sum(res, s2);
+            count++;
 
 
         }
