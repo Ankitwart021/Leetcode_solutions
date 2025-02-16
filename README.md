@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Ankitwart021/Leetcode_solutions/tree/master/0043-multiply-strings) |
 | [0205-isomorphic-strings](https://github.com/Ankitwart021/Leetcode_solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Ankitwart021/Leetcode_solutions/tree/master/0242-valid-anagram) |
+| [0392-is-subsequence](https://github.com/Ankitwart021/Leetcode_solutions/tree/master/0392-is-subsequence) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Ankitwart021/Leetcode_solutions/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Simulation
 |  |
@@ -26,4 +27,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Ankitwart021/Leetcode_solutions/tree/master/0242-valid-anagram) |
+## Two Pointers
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/Ankitwart021/Leetcode_solutions/tree/master/0392-is-subsequence) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/Ankitwart021/Leetcode_solutions/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
