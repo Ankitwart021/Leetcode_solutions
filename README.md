@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Ankitwart021/Leetcode_solutions/tree/master/0043-multiply-strings) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/Ankitwart021/Leetcode_solutions/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -45,4 +46,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Ankitwart021/Leetcode_solutions/tree/master/0387-first-unique-character-in-a-string) |
+## Array
+|  |
+| ------- |
+| [2132-convert-1d-array-into-2d-array](https://github.com/Ankitwart021/Leetcode_solutions/tree/master/2132-convert-1d-array-into-2d-array) |
+## Matrix
+|  |
+| ------- |
+| [2132-convert-1d-array-into-2d-array](https://github.com/Ankitwart021/Leetcode_solutions/tree/master/2132-convert-1d-array-into-2d-array) |
 <!---LeetCode Topics End-->
