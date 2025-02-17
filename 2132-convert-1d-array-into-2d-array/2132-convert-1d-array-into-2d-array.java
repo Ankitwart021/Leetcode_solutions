@@ -3,10 +3,10 @@ class Solution {
        
        if(original.length != m*n) return new int[0][0];
         int[][] res = new int[m][n];
-       
+       int row = 0 , col = 0;
         for(int i = 0; i < original.length; i++){
-         int row = i / n;
-         int col = i % n;
+          row = i / n;
+          col = i % n;
          res[row][col] = original[i];
         }
         return res;
