@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Ankitwart021/Leetcode_solutions/tree/master/0043-multiply-strings) |
+| [0898-transpose-matrix](https://github.com/Ankitwart021/Leetcode_solutions/tree/master/0898-transpose-matrix) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Ankitwart021/Leetcode_solutions/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Hash Table
 |  |
@@ -49,9 +50,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0898-transpose-matrix](https://github.com/Ankitwart021/Leetcode_solutions/tree/master/0898-transpose-matrix) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Ankitwart021/Leetcode_solutions/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Matrix
 |  |
 | ------- |
+| [0898-transpose-matrix](https://github.com/Ankitwart021/Leetcode_solutions/tree/master/0898-transpose-matrix) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Ankitwart021/Leetcode_solutions/tree/master/2132-convert-1d-array-into-2d-array) |
 <!---LeetCode Topics End-->
