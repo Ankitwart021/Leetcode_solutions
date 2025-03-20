@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Ankitwart021/Leetcode_solutions/tree/master/0073-set-matrix-zeroes) |
 | [0498-diagonal-traverse](https://github.com/Ankitwart021/Leetcode_solutions/tree/master/0498-diagonal-traverse) |
 | [0777-toeplitz-matrix](https://github.com/Ankitwart021/Leetcode_solutions/tree/master/0777-toeplitz-matrix) |
+| [0792-binary-search](https://github.com/Ankitwart021/Leetcode_solutions/tree/master/0792-binary-search) |
 | [0898-transpose-matrix](https://github.com/Ankitwart021/Leetcode_solutions/tree/master/0898-transpose-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Ankitwart021/Leetcode_solutions/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/Ankitwart021/Leetcode_solutions/tree/master/1677-matrix-diagonal-sum) |
@@ -72,4 +73,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Ankitwart021/Leetcode_solutions/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/Ankitwart021/Leetcode_solutions/tree/master/1677-matrix-diagonal-sum) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Ankitwart021/Leetcode_solutions/tree/master/2132-convert-1d-array-into-2d-array) |
+## Binary Search
+|  |
+| ------- |
+| [0792-binary-search](https://github.com/Ankitwart021/Leetcode_solutions/tree/master/0792-binary-search) |
 <!---LeetCode Topics End-->
