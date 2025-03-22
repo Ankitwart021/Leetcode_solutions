@@ -34,10 +34,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Ankitwart021/Leetcode_solutions/tree/master/0242-valid-anagram) |
+| [0658-find-k-closest-elements](https://github.com/Ankitwart021/Leetcode_solutions/tree/master/0658-find-k-closest-elements) |
 ## Two Pointers
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/Ankitwart021/Leetcode_solutions/tree/master/0392-is-subsequence) |
+| [0658-find-k-closest-elements](https://github.com/Ankitwart021/Leetcode_solutions/tree/master/0658-find-k-closest-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Ankitwart021/Leetcode_solutions/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Ankitwart021/Leetcode_solutions/tree/master/0073-set-matrix-zeroes) |
 | [0498-diagonal-traverse](https://github.com/Ankitwart021/Leetcode_solutions/tree/master/0498-diagonal-traverse) |
+| [0658-find-k-closest-elements](https://github.com/Ankitwart021/Leetcode_solutions/tree/master/0658-find-k-closest-elements) |
 | [0777-toeplitz-matrix](https://github.com/Ankitwart021/Leetcode_solutions/tree/master/0777-toeplitz-matrix) |
 | [0792-binary-search](https://github.com/Ankitwart021/Leetcode_solutions/tree/master/0792-binary-search) |
 | [0898-transpose-matrix](https://github.com/Ankitwart021/Leetcode_solutions/tree/master/0898-transpose-matrix) |
@@ -82,10 +85,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Ankitwart021/Leetcode_solutions/tree/master/0035-search-insert-position) |
 | [0278-first-bad-version](https://github.com/Ankitwart021/Leetcode_solutions/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/Ankitwart021/Leetcode_solutions/tree/master/0374-guess-number-higher-or-lower) |
+| [0658-find-k-closest-elements](https://github.com/Ankitwart021/Leetcode_solutions/tree/master/0658-find-k-closest-elements) |
 | [0792-binary-search](https://github.com/Ankitwart021/Leetcode_solutions/tree/master/0792-binary-search) |
 ## Interactive
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Ankitwart021/Leetcode_solutions/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/Ankitwart021/Leetcode_solutions/tree/master/0374-guess-number-higher-or-lower) |
+## Sliding Window
+|  |
+| ------- |
+| [0658-find-k-closest-elements](https://github.com/Ankitwart021/Leetcode_solutions/tree/master/0658-find-k-closest-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0658-find-k-closest-elements](https://github.com/Ankitwart021/Leetcode_solutions/tree/master/0658-find-k-closest-elements) |
 <!---LeetCode Topics End-->
