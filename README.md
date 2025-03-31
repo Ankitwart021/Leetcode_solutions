@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/Ankitwart021/Leetcode_solutions/tree/master/0658-find-k-closest-elements) |
 | [0777-toeplitz-matrix](https://github.com/Ankitwart021/Leetcode_solutions/tree/master/0777-toeplitz-matrix) |
 | [0792-binary-search](https://github.com/Ankitwart021/Leetcode_solutions/tree/master/0792-binary-search) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/Ankitwart021/Leetcode_solutions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0898-transpose-matrix](https://github.com/Ankitwart021/Leetcode_solutions/tree/master/0898-transpose-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Ankitwart021/Leetcode_solutions/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/Ankitwart021/Leetcode_solutions/tree/master/1677-matrix-diagonal-sum) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0475-heaters](https://github.com/Ankitwart021/Leetcode_solutions/tree/master/0475-heaters) |
 | [0658-find-k-closest-elements](https://github.com/Ankitwart021/Leetcode_solutions/tree/master/0658-find-k-closest-elements) |
 | [0792-binary-search](https://github.com/Ankitwart021/Leetcode_solutions/tree/master/0792-binary-search) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/Ankitwart021/Leetcode_solutions/tree/master/0882-peak-index-in-a-mountain-array) |
 ## Interactive
 |  |
 | ------- |
