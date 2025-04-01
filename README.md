@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Ankitwart021/Leetcode_solutions/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/Ankitwart021/Leetcode_solutions/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/Ankitwart021/Leetcode_solutions/tree/master/0069-sqrtx) |
+| [0367-valid-perfect-square](https://github.com/Ankitwart021/Leetcode_solutions/tree/master/0367-valid-perfect-square) |
 ## String
 |  |
 | ------- |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ankitwart021/Leetcode_solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Ankitwart021/Leetcode_solutions/tree/master/0162-find-peak-element) |
 | [0278-first-bad-version](https://github.com/Ankitwart021/Leetcode_solutions/tree/master/0278-first-bad-version) |
+| [0367-valid-perfect-square](https://github.com/Ankitwart021/Leetcode_solutions/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/Ankitwart021/Leetcode_solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0475-heaters](https://github.com/Ankitwart021/Leetcode_solutions/tree/master/0475-heaters) |
 | [0658-find-k-closest-elements](https://github.com/Ankitwart021/Leetcode_solutions/tree/master/0658-find-k-closest-elements) |
