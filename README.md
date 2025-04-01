@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Ankitwart021/Leetcode_solutions/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ankitwart021/Leetcode_solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Ankitwart021/Leetcode_solutions/tree/master/0162-find-peak-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Ankitwart021/Leetcode_solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0475-heaters](https://github.com/Ankitwart021/Leetcode_solutions/tree/master/0475-heaters) |
 | [0498-diagonal-traverse](https://github.com/Ankitwart021/Leetcode_solutions/tree/master/0498-diagonal-traverse) |
 | [0658-find-k-closest-elements](https://github.com/Ankitwart021/Leetcode_solutions/tree/master/0658-find-k-closest-elements) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Ankitwart021/Leetcode_solutions/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Ankitwart021/Leetcode_solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Ankitwart021/Leetcode_solutions/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Ankitwart021/Leetcode_solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0498-diagonal-traverse](https://github.com/Ankitwart021/Leetcode_solutions/tree/master/0498-diagonal-traverse) |
 | [0777-toeplitz-matrix](https://github.com/Ankitwart021/Leetcode_solutions/tree/master/0777-toeplitz-matrix) |
 | [0898-transpose-matrix](https://github.com/Ankitwart021/Leetcode_solutions/tree/master/0898-transpose-matrix) |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Ankitwart021/Leetcode_solutions/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ankitwart021/Leetcode_solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Ankitwart021/Leetcode_solutions/tree/master/0162-find-peak-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Ankitwart021/Leetcode_solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0278-first-bad-version](https://github.com/Ankitwart021/Leetcode_solutions/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/Ankitwart021/Leetcode_solutions/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/Ankitwart021/Leetcode_solutions/tree/master/0374-guess-number-higher-or-lower) |
@@ -119,4 +122,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/Ankitwart021/Leetcode_solutions/tree/master/0658-find-k-closest-elements) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/Ankitwart021/Leetcode_solutions/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->
