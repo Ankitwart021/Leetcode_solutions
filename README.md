@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/Ankitwart021/Leetcode_solutions/tree/master/0392-is-subsequence) |
+| [0410-split-array-largest-sum](https://github.com/Ankitwart021/Leetcode_solutions/tree/master/0410-split-array-largest-sum) |
 ## Queue
 |  |
 | ------- |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ankitwart021/Leetcode_solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Ankitwart021/Leetcode_solutions/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Ankitwart021/Leetcode_solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0410-split-array-largest-sum](https://github.com/Ankitwart021/Leetcode_solutions/tree/master/0410-split-array-largest-sum) |
 | [0475-heaters](https://github.com/Ankitwart021/Leetcode_solutions/tree/master/0475-heaters) |
 | [0498-diagonal-traverse](https://github.com/Ankitwart021/Leetcode_solutions/tree/master/0498-diagonal-traverse) |
 | [0658-find-k-closest-elements](https://github.com/Ankitwart021/Leetcode_solutions/tree/master/0658-find-k-closest-elements) |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/Ankitwart021/Leetcode_solutions/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/Ankitwart021/Leetcode_solutions/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/Ankitwart021/Leetcode_solutions/tree/master/0374-guess-number-higher-or-lower) |
+| [0410-split-array-largest-sum](https://github.com/Ankitwart021/Leetcode_solutions/tree/master/0410-split-array-largest-sum) |
 | [0475-heaters](https://github.com/Ankitwart021/Leetcode_solutions/tree/master/0475-heaters) |
 | [0658-find-k-closest-elements](https://github.com/Ankitwart021/Leetcode_solutions/tree/master/0658-find-k-closest-elements) |
 | [0792-binary-search](https://github.com/Ankitwart021/Leetcode_solutions/tree/master/0792-binary-search) |
@@ -128,4 +131,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/Ankitwart021/Leetcode_solutions/tree/master/0240-search-a-2d-matrix-ii) |
+## Greedy
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/Ankitwart021/Leetcode_solutions/tree/master/0410-split-array-largest-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/Ankitwart021/Leetcode_solutions/tree/master/0410-split-array-largest-sum) |
 <!---LeetCode Topics End-->
