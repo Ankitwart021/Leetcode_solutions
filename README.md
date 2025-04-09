@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0882-peak-index-in-a-mountain-array](https://github.com/Ankitwart021/Leetcode_solutions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0898-transpose-matrix](https://github.com/Ankitwart021/Leetcode_solutions/tree/master/0898-transpose-matrix) |
 | [0907-koko-eating-bananas](https://github.com/Ankitwart021/Leetcode_solutions/tree/master/0907-koko-eating-bananas) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/Ankitwart021/Leetcode_solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Ankitwart021/Leetcode_solutions/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Ankitwart021/Leetcode_solutions/tree/master/1675-magnetic-force-between-two-balls) |
 | [1677-matrix-diagonal-sum](https://github.com/Ankitwart021/Leetcode_solutions/tree/master/1677-matrix-diagonal-sum) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/Ankitwart021/Leetcode_solutions/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Ankitwart021/Leetcode_solutions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/Ankitwart021/Leetcode_solutions/tree/master/0907-koko-eating-bananas) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/Ankitwart021/Leetcode_solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Ankitwart021/Leetcode_solutions/tree/master/1675-magnetic-force-between-two-balls) |
 ## Interactive
 |  |
